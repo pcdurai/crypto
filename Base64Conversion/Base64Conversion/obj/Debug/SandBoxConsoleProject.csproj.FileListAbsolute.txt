@@ -1,0 +1,8 @@
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64Conversion\bin\Debug\Base64Conversion.exe.config
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64Conversion\bin\Debug\Base64Conversion.exe
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64Conversion\bin\Debug\Base64Conversion.pdb
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64Conversion\bin\Debug\Base64LocalLibrary.dll
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64Conversion\bin\Debug\Base64LocalLibrary.pdb
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64Conversion\obj\Debug\SandBoxConsoleProject.csprojResolveAssemblyReference.cache
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64Conversion\obj\Debug\Base64Conversion.exe
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64Conversion\obj\Debug\Base64Conversion.pdb

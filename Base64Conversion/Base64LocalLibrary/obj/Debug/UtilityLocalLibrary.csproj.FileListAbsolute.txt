@@ -1,0 +1,4 @@
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64LocalLibrary\bin\Debug\Base64LocalLibrary.dll
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64LocalLibrary\bin\Debug\Base64LocalLibrary.pdb
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64LocalLibrary\obj\Debug\Base64LocalLibrary.dll
+C:\Users\cpetchim\Documents\workspace\workspace-crypto\Base64Conversion\Base64LocalLibrary\obj\Debug\Base64LocalLibrary.pdb
